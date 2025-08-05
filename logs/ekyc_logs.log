@@ -1,0 +1,1559 @@
+[2025-08-05 17:36:52,755: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:38:09,911: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:39:29,329: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:41:38,719: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:42:13,178: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:43:08,995: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:46:41,903: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:48:00,576: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:48:08,986: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:48:09,003: INFO: face_verification]: Extracting face...
+[2025-08-05 17:52:36,440: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:52:44,712: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:52:44,734: INFO: face_verification]: Extracting face...
+[2025-08-05 17:54:37,334: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:54:44,772: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:55:24,405: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:55:31,372: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:55:32,792: INFO: sql_connection]: Connection established with database
+[2025-08-05 17:56:25,483: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:56:32,353: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:56:32,460: INFO: sql_connection]: Connection established with database
+[2025-08-05 17:57:15,879: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:57:22,870: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:57:22,959: INFO: sql_connection]: Connection established with database
+[2025-08-05 17:58:41,838: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:58:49,467: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 17:58:49,865: INFO: sql_connection]: Connection established with database
+[2025-08-05 17:58:50,032: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 17:58:50,032: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 17:58:50,034: INFO: app]: ID card type selected: PAN
+[2025-08-05 17:58:50,034: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 17:59:17,937: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 17:59:17,939: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 17:59:17,942: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 17:59:17,942: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 17:59:30,229: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 17:59:30,230: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 17:59:30,231: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 17:59:30,231: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 17:59:30,236: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-08-05 17:59:30,236: INFO: app]: Face image loaded.
+[2025-08-05 17:59:30,238: ERROR: app]: No face image uploaded.
+[2025-08-05 17:59:34,676: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 17:59:34,677: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 17:59:34,679: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 17:59:34,679: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 17:59:34,700: INFO: app]: Face image loaded.
+[2025-08-05 17:59:34,706: INFO: app]: ID card image loaded.
+[2025-08-05 17:59:34,725: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-08-05 17:59:34,725: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 17:59:34,728: INFO: app]: ID card ROI extracted.
+[2025-08-05 17:59:34,729: INFO: face_verification]: Extracting face...
+[2025-08-05 17:59:35,146: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 17:59:35,147: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-08-05 17:59:35,147: INFO: preprocess]: Image saved successfully: data\02_intermediate_data/face_image.jpg
+[2025-08-05 17:59:35,147: INFO: app]: Faces extracted and saved.
+[2025-08-05 17:59:35,147: INFO: face_verification]: Verifying the images....
+[2025-08-05 17:59:35,147: WARNING: utils]: File does not exist at data\02_intermediate_data/face_image.jpg
+[2025-08-05 17:59:35,147: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 17:59:35,147: WARNING: face_verification]: One or both image paths do not exist
+[2025-08-05 17:59:35,147: INFO: app]: Face verification status: failed.
+[2025-08-05 18:03:12,944: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:03:20,903: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:03:21,137: INFO: sql_connection]: Connection established with database
+[2025-08-05 18:03:21,146: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:03:21,146: INFO: app]: Initializing database connection.
+[2025-08-05 18:03:21,290: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:03:21,290: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:03:21,291: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:03:21,291: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:03:26,978: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:03:26,979: INFO: app]: Initializing database connection.
+[2025-08-05 18:03:26,984: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:03:26,985: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:03:26,986: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:03:26,987: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:03:33,421: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:03:33,421: INFO: app]: Initializing database connection.
+[2025-08-05 18:03:33,423: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:03:33,423: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:03:33,424: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:03:33,424: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:03:33,425: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-08-05 18:03:33,425: INFO: app]: Attempting to load face image.
+[2025-08-05 18:03:33,425: ERROR: app]: No face image uploaded.
+[2025-08-05 18:03:42,390: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:03:42,391: INFO: app]: Initializing database connection.
+[2025-08-05 18:03:42,395: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:03:42,398: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:03:42,398: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:03:42,399: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:03:42,408: INFO: app]: Attempting to load face image.
+[2025-08-05 18:03:42,409: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:03:42,411: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:03:42,434: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-08-05 18:03:42,434: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:03:42,437: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:03:42,437: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:03:42,437: INFO: face_verification]: Extracting face...
+[2025-08-05 18:03:42,609: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:03:42,610: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:03:42,610: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:03:42,610: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:03:42,610: INFO: app]: Starting face verification.
+[2025-08-05 18:03:42,610: INFO: face_verification]: Verifying the images....
+[2025-08-05 18:03:42,610: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:03:42,610: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:06:28,383: INFO: face_verification]: Faces are verified as the same person
+[2025-08-05 18:06:28,384: INFO: app]: Face verification status: successful.
+[2025-08-05 18:06:28,384: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:06:28,384: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:06:28,396: WARNING: easyocr]: Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+[2025-08-05 18:12:40,979: INFO: easyocr]: Download complete
+[2025-08-05 18:12:40,981: WARNING: easyocr]: Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+[2025-08-05 18:12:44,856: INFO: easyocr]: Download complete.
+[2025-08-05 18:12:47,506: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:12:52,043: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:12:52,054: INFO: app]: Extracted text info: {'ID': 'XXXX XXXX XXXXGovernment of IndiaMeera Devi', 'Name': 'Meera Devi', 'Gender': 'FEMALE', 'DOB': datetime.datetime(1989, 9, 5, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:12:52,054: INFO: app]: Hashing ID value.
+[2025-08-05 18:12:52,056: INFO: app]: Generated hash for ID: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:12:52,056: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:12:52,188: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:12:52,222: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:12:52,223: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:12:52,223: INFO: app]: Inserting new record into database.
+[2025-08-05 18:12:52,241: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:12:52,241: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:13:30,557: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:13:30,653: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:13:30,658: INFO: app]: New user record inserted successfully: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:14:31,276: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:14:45,399: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:14:45,625: INFO: sql_connection]: Connection established with database
+[2025-08-05 18:14:45,636: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:14:45,636: INFO: app]: Initializing database connection.
+[2025-08-05 18:14:45,794: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:14:45,794: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:14:45,795: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:14:45,795: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:14:52,542: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:14:52,543: INFO: app]: Initializing database connection.
+[2025-08-05 18:14:52,546: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:14:52,546: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:14:52,547: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:14:52,547: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:14:52,548: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-08-05 18:14:52,548: INFO: app]: Attempting to load face image.
+[2025-08-05 18:14:52,548: ERROR: app]: No face image uploaded.
+[2025-08-05 18:14:56,363: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:14:56,363: INFO: app]: Initializing database connection.
+[2025-08-05 18:14:56,365: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:14:56,366: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:14:56,367: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:14:56,368: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:14:56,402: INFO: app]: Attempting to load face image.
+[2025-08-05 18:14:56,404: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:14:56,407: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:14:56,440: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-08-05 18:14:56,440: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:14:56,445: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:14:56,447: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:14:56,447: INFO: face_verification]: Extracting face...
+[2025-08-05 18:14:56,600: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:14:56,600: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:14:56,600: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:14:56,600: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:14:56,600: INFO: app]: Starting face verification.
+[2025-08-05 18:14:56,600: INFO: face_verification]: Verifying the images....
+[2025-08-05 18:14:56,600: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:14:56,600: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:14:58,615: INFO: face_verification]: Faces are verified as the same person
+[2025-08-05 18:14:58,616: INFO: app]: Face verification status: successful.
+[2025-08-05 18:14:58,616: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:14:58,616: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:15:01,331: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:15:02,418: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:15:02,419: INFO: app]: Extracted text info: {'ID': '', 'Name': '', "Father's Name": '', 'DOB': '', 'ID Type': 'PAN'}
+[2025-08-05 18:15:02,419: INFO: app]: Hashing ID value.
+[2025-08-05 18:15:02,420: INFO: app]: Generated hash for ID: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-08-05 18:15:02,420: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:15:02,565: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:15:02,573: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:15:02,573: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:15:02,573: INFO: app]: Inserting new record into database.
+[2025-08-05 18:15:08,696: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:15:08,697: INFO: app]: Initializing database connection.
+[2025-08-05 18:15:08,702: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:15:08,703: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:15:08,703: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:15:08,704: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:15:08,706: INFO: app]: Attempting to load face image.
+[2025-08-05 18:15:08,706: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:15:08,709: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:15:08,716: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-08-05 18:15:08,716: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:15:08,724: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:15:08,724: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:15:08,724: INFO: face_verification]: Extracting face...
+[2025-08-05 18:15:08,766: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:15:08,767: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:15:08,768: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:15:08,768: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:15:08,768: INFO: app]: Starting face verification.
+[2025-08-05 18:15:08,768: INFO: face_verification]: Verifying the images....
+[2025-08-05 18:15:08,768: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:15:08,768: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:15:09,227: INFO: face_verification]: Faces are verified as the same person
+[2025-08-05 18:15:09,227: INFO: app]: Face verification status: successful.
+[2025-08-05 18:15:09,227: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:15:09,227: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:15:11,979: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:15:12,483: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:15:12,485: INFO: app]: Extracted text info: {'ID': 'XXXX XXXX XXXXGovernment of IndiaMeera Devi', 'Name': 'Meera Devi', 'Gender': 'FEMALE', 'DOB': datetime.datetime(1989, 9, 5, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:15:12,485: INFO: app]: Hashing ID value.
+[2025-08-05 18:15:12,485: INFO: app]: Generated hash for ID: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:15:12,485: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:15:12,811: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:15:12,826: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:15:12,826: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:15:12,826: INFO: app]: Inserting new record into database.
+[2025-08-05 18:15:12,830: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:15:12,831: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:15:14,299: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:15:14,313: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:15:14,313: INFO: app]: New user record inserted successfully: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:15:20,247: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:15:20,254: INFO: app]: Initializing database connection.
+[2025-08-05 18:15:20,262: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:15:20,262: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:15:20,263: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:15:20,263: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:15:22,988: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:15:22,989: INFO: app]: Initializing database connection.
+[2025-08-05 18:15:22,991: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:15:22,996: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:15:22,998: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:15:22,999: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:15:26,471: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:15:26,471: INFO: app]: Initializing database connection.
+[2025-08-05 18:15:26,473: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:15:26,473: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:15:26,474: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:15:26,475: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:15:26,476: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-08-05 18:15:26,476: INFO: app]: Attempting to load face image.
+[2025-08-05 18:15:26,476: ERROR: app]: No face image uploaded.
+[2025-08-05 18:15:29,927: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:15:29,927: INFO: app]: Initializing database connection.
+[2025-08-05 18:15:29,929: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:15:29,931: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:15:29,933: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:15:29,934: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:15:29,938: INFO: app]: Attempting to load face image.
+[2025-08-05 18:15:29,939: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:15:29,948: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:15:29,957: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-08-05 18:15:29,957: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:15:29,963: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:15:29,963: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:15:29,963: INFO: face_verification]: Extracting face...
+[2025-08-05 18:15:30,004: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:15:30,004: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:15:30,005: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:15:30,005: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:15:30,005: INFO: app]: Starting face verification.
+[2025-08-05 18:15:30,005: INFO: face_verification]: Verifying the images....
+[2025-08-05 18:15:30,005: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:15:30,005: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:15:30,438: INFO: face_verification]: Faces are verified as the same person
+[2025-08-05 18:15:30,438: INFO: app]: Face verification status: successful.
+[2025-08-05 18:15:30,438: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:15:30,438: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:15:33,203: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:15:33,668: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:15:33,672: INFO: app]: Extracted text info: {'ID': 'XXXX XXXX XXXXGovernment of IndiaMeera Devi', 'Name': 'Meera Devi', 'Gender': 'FEMALE', 'DOB': datetime.datetime(1989, 9, 5, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:15:33,672: INFO: app]: Hashing ID value.
+[2025-08-05 18:15:33,675: INFO: app]: Generated hash for ID: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:15:33,675: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:15:34,636: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:15:34,646: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:15:34,646: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:15:34,647: INFO: app]: Inserting new record into database.
+[2025-08-05 18:15:34,657: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:15:34,657: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:15:34,911: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:15:34,931: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:15:34,932: INFO: app]: New user record inserted successfully: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:15:47,909: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:15:54,371: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:15:54,446: INFO: sql_connection]: Connection established with database
+[2025-08-05 18:15:54,453: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:15:54,453: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:15:54,453: INFO: app]: Initializing database connection.
+[2025-08-05 18:15:54,453: INFO: app]: Initializing database connection.
+[2025-08-05 18:15:54,675: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:15:54,675: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:15:54,676: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:15:54,676: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:15:57,921: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:15:57,921: INFO: app]: Initializing database connection.
+[2025-08-05 18:15:57,925: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:15:57,925: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:15:57,926: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:15:57,927: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:16:01,492: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:16:01,494: INFO: app]: Initializing database connection.
+[2025-08-05 18:16:01,496: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:16:01,497: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:16:01,497: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:16:01,498: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:16:01,498: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-08-05 18:16:01,498: INFO: app]: Attempting to load face image.
+[2025-08-05 18:16:01,498: ERROR: app]: No face image uploaded.
+[2025-08-05 18:16:04,474: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:16:04,475: INFO: app]: Initializing database connection.
+[2025-08-05 18:16:04,478: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:16:04,480: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:16:04,486: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:16:04,487: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:16:04,489: INFO: app]: Attempting to load face image.
+[2025-08-05 18:16:04,490: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:16:04,508: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:16:04,520: INFO: preprocess]: contours are found at, (0, 0, 609, 390)
+[2025-08-05 18:16:04,520: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:16:04,523: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:16:04,523: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:16:04,523: INFO: face_verification]: Extracting face...
+[2025-08-05 18:16:04,650: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:16:04,650: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:16:04,651: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:16:04,651: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:16:04,651: INFO: app]: Starting face verification.
+[2025-08-05 18:16:04,651: INFO: face_verification]: Verifying the images....
+[2025-08-05 18:16:04,651: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:16:04,651: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:16:07,204: INFO: face_verification]: Faces are verified as the same person
+[2025-08-05 18:16:07,204: INFO: app]: Face verification status: successful.
+[2025-08-05 18:16:07,204: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:16:07,204: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:16:10,279: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:16:11,169: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:16:11,171: INFO: app]: Extracted text info: {'ID': 'XXXX XXXX XXXXGovernment of IndiaMeera Devi', 'Name': 'Meera Devi', 'Gender': 'FEMALE', 'DOB': datetime.datetime(1989, 9, 5, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:16:11,171: INFO: app]: Hashing ID value.
+[2025-08-05 18:16:11,171: INFO: app]: Generated hash for ID: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:16:11,171: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:16:11,204: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:16:11,209: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:16:11,209: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:16:11,209: INFO: app]: Inserting new record into database.
+[2025-08-05 18:16:11,214: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:16:11,214: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:16:12,594: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:16:12,597: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:16:12,597: INFO: app]: New user record inserted successfully: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:18:16,782: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:18:16,785: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:18:16,905: INFO: sql_connection]: Connection established with database
+[2025-08-05 18:18:16,905: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:18:16,905: INFO: app]: Initializing database connection.
+[2025-08-05 18:18:16,907: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:18:16,907: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:18:16,908: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:18:16,908: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:18:19,788: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:18:19,789: INFO: app]: Initializing database connection.
+[2025-08-05 18:18:19,798: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:18:19,798: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:18:19,804: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:18:19,805: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:18:23,674: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:18:23,676: INFO: app]: Initializing database connection.
+[2025-08-05 18:18:23,681: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:18:23,682: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:18:23,683: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:18:23,684: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:18:23,687: ERROR: preprocess]: read_image called with None image_file.
+[2025-08-05 18:18:23,687: INFO: app]: Attempting to load face image.
+[2025-08-05 18:18:23,687: ERROR: app]: No face image uploaded.
+[2025-08-05 18:18:27,544: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:18:27,545: INFO: app]: Initializing database connection.
+[2025-08-05 18:18:27,550: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:18:27,550: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:18:27,551: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:18:27,551: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:18:27,565: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:18:27,565: INFO: app]: Attempting to load face image.
+[2025-08-05 18:18:27,565: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:18:27,569: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:18:27,569: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:18:27,578: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:18:27,579: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:18:27,580: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:18:27,585: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:18:27,585: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:18:27,585: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:18:27,585: INFO: face_verification]: Extracting face...
+[2025-08-05 18:18:27,646: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:18:27,646: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:18:27,646: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:18:27,646: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:18:27,646: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:18:27,646: INFO: app]: Starting face verification.
+[2025-08-05 18:18:27,646: INFO: face_verification]: Verifying the images....
+[2025-08-05 18:18:27,646: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:18:27,647: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:18:28,339: INFO: face_verification]: Faces are verified as the same person
+[2025-08-05 18:18:28,339: INFO: app]: Face verification status: successful.
+[2025-08-05 18:18:28,339: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:18:28,339: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:18:32,181: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:18:32,717: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:18:32,719: INFO: app]: Extracted text info: {'ID': 'XXXX XXXX XXXXGovernment of IndiaMeera Devi', 'Name': 'Meera Devi', 'Gender': 'FEMALE', 'DOB': datetime.datetime(1989, 9, 5, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:18:32,719: INFO: app]: Hashing ID value.
+[2025-08-05 18:18:32,721: INFO: app]: Generated hash for ID: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:18:32,721: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:18:32,804: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:18:32,817: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:18:32,818: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:18:32,818: INFO: app]: Inserting new record into database.
+[2025-08-05 18:18:32,822: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:18:32,823: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:18:33,273: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:18:33,278: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:18:33,281: INFO: app]: New user record inserted successfully: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:18:52,346: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:18:59,443: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:18:59,527: INFO: sql_connection]: Connection established with database
+[2025-08-05 18:18:59,535: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:18:59,535: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:18:59,537: INFO: app]: Initializing database connection.
+[2025-08-05 18:18:59,537: INFO: app]: Initializing database connection.
+[2025-08-05 18:18:59,763: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:18:59,764: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:18:59,764: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:18:59,764: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:19:02,370: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:19:02,372: INFO: app]: Initializing database connection.
+[2025-08-05 18:19:02,374: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:19:02,375: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:19:02,377: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:19:02,378: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:19:06,468: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:19:06,469: INFO: app]: Initializing database connection.
+[2025-08-05 18:19:06,471: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:19:06,471: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:19:06,472: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:19:06,472: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:19:06,473: ERROR: preprocess]: read_image called with None image_file.
+[2025-08-05 18:19:06,473: INFO: app]: Attempting to load face image.
+[2025-08-05 18:19:06,473: ERROR: app]: No face image uploaded.
+[2025-08-05 18:19:09,885: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:19:09,887: INFO: app]: Initializing database connection.
+[2025-08-05 18:19:09,889: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:19:09,890: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:19:09,893: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:19:09,894: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:19:09,909: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:19:09,909: INFO: app]: Attempting to load face image.
+[2025-08-05 18:19:09,909: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:19:09,916: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:19:09,917: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:19:09,934: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:19:09,935: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:19:09,935: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:19:09,939: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:19:09,939: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:19:09,939: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:19:09,939: INFO: face_verification]: Extracting face...
+[2025-08-05 18:19:10,070: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:19:10,071: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:19:10,071: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:19:10,071: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:19:10,071: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:19:10,071: INFO: app]: Starting face verification.
+[2025-08-05 18:19:10,071: INFO: face_verification]: Verifying the images....
+[2025-08-05 18:19:10,071: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:19:10,071: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:19:13,082: INFO: face_verification]: Faces are verified as the same person
+[2025-08-05 18:19:13,091: INFO: app]: Face verification status: successful.
+[2025-08-05 18:19:13,091: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:19:13,091: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:19:15,787: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:19:16,717: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:19:16,721: INFO: app]: Extracted text info: {'ID': 'XXXX XXXX XXXXGovernment of IndiaMeera Devi', 'Name': 'Meera Devi', 'Gender': 'FEMALE', 'DOB': datetime.datetime(1989, 9, 5, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:19:16,721: INFO: app]: Hashing ID value.
+[2025-08-05 18:19:16,721: INFO: app]: Generated hash for ID: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:19:16,721: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:19:16,900: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:19:16,911: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:19:16,912: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:19:16,912: INFO: app]: Inserting new record into database.
+[2025-08-05 18:19:16,917: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:19:16,917: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:19:18,269: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:19:18,272: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:19:18,273: INFO: app]: New user record inserted successfully: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:22:36,476: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:22:43,427: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:22:43,641: INFO: sql_connection]: Connection established with database
+[2025-08-05 18:22:43,649: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:22:43,649: INFO: app]: Initializing database connection.
+[2025-08-05 18:22:43,649: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:22:43,650: INFO: app]: Initializing database connection.
+[2025-08-05 18:22:43,923: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:22:43,923: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:22:43,924: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:22:43,924: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:22:46,284: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:22:46,284: INFO: app]: Initializing database connection.
+[2025-08-05 18:22:46,292: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:22:46,293: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:22:46,294: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:22:46,295: INFO: app]: Header set for AADHAR Card registration.
+[2025-08-05 18:22:50,034: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:22:50,035: INFO: app]: Initializing database connection.
+[2025-08-05 18:22:50,036: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:22:50,037: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:22:50,038: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:22:50,038: INFO: app]: Header set for AADHAR Card registration.
+[2025-08-05 18:22:50,039: ERROR: preprocess]: read_image called with None image_file.
+[2025-08-05 18:22:50,040: INFO: app]: Attempting to load face image.
+[2025-08-05 18:22:50,040: ERROR: app]: No face image uploaded.
+[2025-08-05 18:22:53,717: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:22:53,717: INFO: app]: Initializing database connection.
+[2025-08-05 18:22:53,718: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:22:53,719: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:22:53,719: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:22:53,720: INFO: app]: Header set for AADHAR Card registration.
+[2025-08-05 18:22:53,756: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:22:53,756: INFO: app]: Attempting to load face image.
+[2025-08-05 18:22:53,756: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:22:53,758: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:22:53,758: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:22:53,843: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:22:53,843: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:22:53,843: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:22:53,857: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:22:53,857: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:22:53,857: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:22:53,857: INFO: face_verification]: Extracting face...
+[2025-08-05 18:22:54,212: INFO: face_verification]: Detected 2 faces.
+[2025-08-05 18:22:54,217: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:22:54,217: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:22:54,218: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:22:54,218: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:22:54,218: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:22:54,665: INFO: app]: Starting face verification.
+[2025-08-05 18:22:54,665: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:22:54,665: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:22:54,665: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:22:57,070: INFO: app]: Face verification status: successful.
+[2025-08-05 18:22:57,072: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:22:57,072: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:22:59,657: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:23:00,548: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:23:00,552: INFO: app]: Extracted text info: {'ID': 'XXXX XXXX XXXXGovernment of IndiaMeera Devi', 'Name': 'Meera Devi', 'Gender': 'FEMALE', 'DOB': datetime.datetime(1989, 9, 5, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:23:00,552: INFO: app]: Hashing ID value.
+[2025-08-05 18:23:00,552: INFO: app]: Generated hash for ID: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:23:00,552: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:23:00,648: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:23:00,656: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:23:00,656: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:23:00,656: INFO: app]: Inserting new record into database.
+[2025-08-05 18:23:00,656: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:23:00,656: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:23:01,973: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:23:02,053: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:23:02,054: INFO: app]: New user record inserted successfully: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:23:17,242: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:23:17,242: INFO: app]: Initializing database connection.
+[2025-08-05 18:23:17,244: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:23:17,244: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:23:17,245: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:23:17,245: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:23:22,299: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:23:22,300: INFO: app]: Initializing database connection.
+[2025-08-05 18:23:22,304: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:23:22,305: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:23:22,306: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:23:22,306: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:23:22,307: ERROR: preprocess]: read_image called with None image_file.
+[2025-08-05 18:23:22,307: INFO: app]: Attempting to load face image.
+[2025-08-05 18:23:22,307: ERROR: app]: No face image uploaded.
+[2025-08-05 18:23:26,047: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:23:26,048: INFO: app]: Initializing database connection.
+[2025-08-05 18:23:26,052: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:23:26,052: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:23:26,054: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:23:26,054: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:23:26,056: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:23:26,056: INFO: app]: Attempting to load face image.
+[2025-08-05 18:23:26,056: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:23:26,063: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:23:26,063: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:23:26,069: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:23:26,069: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:23:26,070: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:23:26,073: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:23:26,073: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:23:26,073: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:23:26,073: INFO: face_verification]: Extracting face...
+[2025-08-05 18:23:26,115: INFO: face_verification]: Detected 2 faces.
+[2025-08-05 18:23:26,116: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:23:26,117: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:23:26,117: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:23:26,117: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:23:26,117: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:23:26,118: INFO: app]: Starting face verification.
+[2025-08-05 18:23:26,119: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:23:26,119: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:23:26,119: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:23:26,537: INFO: app]: Face verification status: successful.
+[2025-08-05 18:23:26,537: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:23:26,537: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:23:29,251: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:23:29,773: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:23:29,774: INFO: app]: Extracted text info: {'ID': '', 'Name': '', "Father's Name": '', 'DOB': '', 'ID Type': 'PAN'}
+[2025-08-05 18:23:29,774: INFO: app]: Hashing ID value.
+[2025-08-05 18:23:29,775: INFO: app]: Generated hash for ID: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-08-05 18:23:29,775: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:23:29,951: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:23:29,956: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:23:29,956: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:23:29,956: INFO: app]: Inserting new record into database.
+[2025-08-05 18:23:40,720: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:23:40,720: INFO: app]: Initializing database connection.
+[2025-08-05 18:23:40,722: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:23:40,723: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:23:40,724: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:23:40,725: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:23:45,036: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:23:45,036: INFO: app]: Initializing database connection.
+[2025-08-05 18:23:45,037: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:23:45,038: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:23:45,039: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:23:45,039: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:23:45,040: ERROR: preprocess]: read_image called with None image_file.
+[2025-08-05 18:23:45,040: INFO: app]: Attempting to load face image.
+[2025-08-05 18:23:45,040: ERROR: app]: No face image uploaded.
+[2025-08-05 18:23:48,278: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:23:48,279: INFO: app]: Initializing database connection.
+[2025-08-05 18:23:48,280: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:23:48,280: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:23:48,281: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:23:48,281: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:23:48,287: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:23:48,287: INFO: app]: Attempting to load face image.
+[2025-08-05 18:23:48,287: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:23:48,293: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:23:48,294: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:23:48,301: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:23:48,301: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:23:48,301: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:23:48,304: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:23:48,304: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:23:48,304: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:23:48,304: INFO: face_verification]: Extracting face...
+[2025-08-05 18:23:48,350: INFO: face_verification]: Detected 2 faces.
+[2025-08-05 18:23:48,351: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:23:48,352: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:23:48,352: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:23:48,352: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:23:48,352: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:23:48,353: INFO: app]: Starting face verification.
+[2025-08-05 18:23:48,354: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:23:48,354: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:23:48,354: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:23:48,805: INFO: app]: Face verification status: successful.
+[2025-08-05 18:23:48,805: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:23:48,805: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:23:51,491: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:23:51,921: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:23:51,921: INFO: app]: Extracted text info: {'ID': '', 'Name': '', "Father's Name": '', 'DOB': '', 'ID Type': 'PAN'}
+[2025-08-05 18:23:51,922: INFO: app]: Hashing ID value.
+[2025-08-05 18:23:51,922: INFO: app]: Generated hash for ID: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-08-05 18:23:51,922: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:23:51,995: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:23:52,000: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:23:52,001: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:23:52,001: INFO: app]: Inserting new record into database.
+[2025-08-05 18:33:41,582: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:34:13,261: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:34:13,312: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:34:13,405: INFO: sql_connection]: Connection established with database
+[2025-08-05 18:34:13,405: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:34:13,405: INFO: app]: Initializing database connection.
+[2025-08-05 18:34:13,407: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:34:13,407: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:34:13,408: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:34:13,408: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:34:17,201: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:34:17,201: INFO: app]: Initializing database connection.
+[2025-08-05 18:34:17,203: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:34:17,204: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:34:17,204: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:34:17,204: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:34:20,605: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:34:20,606: INFO: app]: Initializing database connection.
+[2025-08-05 18:34:20,610: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:34:20,610: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:34:20,611: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:34:20,611: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:34:20,618: ERROR: preprocess]: read_image called with None image_file.
+[2025-08-05 18:34:20,618: INFO: app]: Attempting to load face image.
+[2025-08-05 18:34:20,619: ERROR: app]: No face image uploaded.
+[2025-08-05 18:34:24,533: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:34:24,534: INFO: app]: Initializing database connection.
+[2025-08-05 18:34:24,536: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:34:24,537: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:34:24,540: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:34:24,540: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:34:24,562: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:34:24,562: INFO: app]: Attempting to load face image.
+[2025-08-05 18:34:24,563: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:34:24,566: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:34:24,566: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:34:24,582: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:34:24,582: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:34:24,583: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:34:24,587: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:34:24,587: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:34:24,587: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:34:24,587: INFO: face_verification]: Extracting face...
+[2025-08-05 18:34:24,650: INFO: face_verification]: Detected 2 faces.
+[2025-08-05 18:34:24,654: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:34:24,655: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:34:24,655: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:34:24,656: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:34:24,656: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:34:24,656: INFO: app]: Starting face verification.
+[2025-08-05 18:34:24,656: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:34:24,656: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:34:24,656: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:34:26,506: INFO: app]: Face verification status: successful.
+[2025-08-05 18:34:26,507: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:34:26,507: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:34:30,045: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:34:30,745: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:34:30,925: INFO: app]: Extracted text info: {'ID': 'XXXX XXXX XXXXGovernment of IndiaMeera Devi', 'Name': 'Meera Devi', 'Gender': 'FEMALE', 'DOB': datetime.datetime(1989, 9, 5, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:34:30,926: INFO: app]: Hashing ID value.
+[2025-08-05 18:34:30,928: INFO: app]: Generated hash for ID: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:34:30,929: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:34:31,120: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:34:31,130: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:34:31,131: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:34:31,131: INFO: app]: Inserting new record into database.
+[2025-08-05 18:34:31,133: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:34:31,134: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:34:31,583: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:34:31,587: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:34:31,588: INFO: app]: New user record inserted successfully: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:35:28,663: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:35:28,665: INFO: app]: Initializing database connection.
+[2025-08-05 18:35:28,671: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:35:28,672: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:35:28,673: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:35:28,673: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:35:28,676: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:35:28,676: INFO: app]: Attempting to load face image.
+[2025-08-05 18:35:28,676: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:35:28,682: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:35:28,682: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:35:28,693: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:35:28,693: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:35:28,694: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:35:28,698: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:35:28,698: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:35:28,698: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:35:28,698: INFO: face_verification]: Extracting face...
+[2025-08-05 18:35:28,750: INFO: face_verification]: Detected 2 faces.
+[2025-08-05 18:35:28,750: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:35:28,752: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:35:28,752: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:35:28,752: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:35:28,752: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:35:28,752: INFO: app]: Starting face verification.
+[2025-08-05 18:35:28,752: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:35:28,752: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:35:28,752: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:35:29,173: INFO: app]: Face verification status: successful.
+[2025-08-05 18:35:29,173: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:35:29,173: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:35:32,044: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:35:32,540: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:35:32,541: INFO: app]: Extracted text info: {'ID': '', 'Name': '', "Father's Name": '', 'DOB': '', 'ID Type': 'PAN'}
+[2025-08-05 18:35:32,542: INFO: app]: Hashing ID value.
+[2025-08-05 18:35:32,542: INFO: app]: Generated hash for ID: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-08-05 18:35:32,542: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:35:33,028: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:35:33,088: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:35:33,089: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:35:33,089: INFO: app]: Inserting new record into database.
+[2025-08-05 18:35:33,099: WARNING: app]: Unable to parse DOB format: 
+[2025-08-05 18:35:33,099: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:35:33,099: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:35:33,394: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:35:33,486: ERROR: sql_connection]: Error inserting records into users table: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:35:33,487: INFO: app]: New user record inserted successfully: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-08-05 18:36:19,401: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:36:19,402: INFO: app]: Initializing database connection.
+[2025-08-05 18:36:19,408: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:36:19,409: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:36:19,410: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:36:19,412: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:36:19,414: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:36:19,414: INFO: app]: Attempting to load face image.
+[2025-08-05 18:36:19,414: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:36:19,418: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:36:19,418: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:36:19,435: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:36:19,435: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:36:19,436: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:36:19,441: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:36:19,442: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:36:19,442: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:36:19,442: INFO: face_verification]: Extracting face...
+[2025-08-05 18:36:19,485: INFO: face_verification]: Detected 2 faces.
+[2025-08-05 18:36:19,486: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:36:19,486: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:19,486: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:19,486: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:19,486: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:19,486: INFO: app]: Starting face verification.
+[2025-08-05 18:36:19,486: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:36:19,486: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:19,486: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:36:19,906: INFO: app]: Face verification status: successful.
+[2025-08-05 18:36:19,910: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:36:19,911: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:36:22,664: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:36:23,064: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:36:23,066: INFO: app]: Extracted text info: {'ID': 'XXXX XXXX XXXXGovernment of IndiaMeera Devi', 'Name': 'Meera Devi', 'Gender': 'FEMALE', 'DOB': datetime.datetime(1989, 9, 5, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:36:23,066: INFO: app]: Hashing ID value.
+[2025-08-05 18:36:23,066: INFO: app]: Generated hash for ID: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:36:23,066: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:36:23,075: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:36:23,082: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:36:23,082: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:36:23,082: INFO: app]: Inserting new record into database.
+[2025-08-05 18:36:23,084: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:23,085: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:23,287: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:36:23,291: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:36:23,292: INFO: app]: New user record inserted successfully: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:36:46,642: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:36:46,643: INFO: app]: Initializing database connection.
+[2025-08-05 18:36:46,645: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:36:46,645: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:36:46,646: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:36:46,647: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:36:46,656: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:36:46,656: INFO: app]: Attempting to load face image.
+[2025-08-05 18:36:46,656: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:36:46,658: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:36:46,659: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:36:46,664: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:36:46,664: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:36:46,664: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:36:46,667: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:36:46,667: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:36:46,667: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:36:46,667: INFO: face_verification]: Extracting face...
+[2025-08-05 18:36:46,709: INFO: face_verification]: Detected 2 faces.
+[2025-08-05 18:36:46,710: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:36:46,711: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:46,711: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:46,714: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:46,714: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:46,714: INFO: app]: Starting face verification.
+[2025-08-05 18:36:46,714: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:36:46,714: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:46,714: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:36:47,215: INFO: app]: Face verification status: failed.
+[2025-08-05 18:36:47,215: ERROR: app]: Face verification failed.
+[2025-08-05 18:36:57,651: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:36:57,651: INFO: app]: Initializing database connection.
+[2025-08-05 18:36:57,654: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:36:57,654: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:36:57,654: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:36:57,655: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:36:57,662: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:36:57,663: INFO: app]: Attempting to load face image.
+[2025-08-05 18:36:57,663: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:36:57,671: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:36:57,672: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:36:57,676: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=1092, h=591
+[2025-08-05 18:36:57,676: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:36:57,676: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:36:57,679: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:36:57,679: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:36:57,679: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:36:57,679: INFO: face_verification]: Extracting face...
+[2025-08-05 18:36:57,737: INFO: face_verification]: Detected 4 faces.
+[2025-08-05 18:36:57,738: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:36:57,739: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:57,739: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:57,743: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:57,743: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:57,743: INFO: app]: Starting face verification.
+[2025-08-05 18:36:57,743: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:36:57,743: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:36:57,743: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:36:58,164: INFO: app]: Face verification status: successful.
+[2025-08-05 18:36:58,164: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:36:58,164: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:37:00,876: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:37:01,101: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:37:01,101: INFO: app]: Initializing database connection.
+[2025-08-05 18:37:01,105: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:37:01,106: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:37:01,108: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:37:01,108: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:37:01,125: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:37:01,126: INFO: app]: Attempting to load face image.
+[2025-08-05 18:37:01,126: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:37:01,136: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:37:01,136: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:37:01,142: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=1092, h=591
+[2025-08-05 18:37:01,142: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:37:01,142: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:37:01,145: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:37:01,145: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:37:01,145: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:37:01,145: INFO: face_verification]: Extracting face...
+[2025-08-05 18:37:01,207: INFO: face_verification]: Detected 4 faces.
+[2025-08-05 18:37:01,208: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:37:01,208: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:37:01,209: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:37:01,213: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:37:01,213: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:37:01,213: INFO: app]: Starting face verification.
+[2025-08-05 18:37:01,213: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:37:01,213: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:37:01,213: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:37:01,899: INFO: app]: Face verification status: successful.
+[2025-08-05 18:37:01,900: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:37:01,900: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:37:04,146: INFO: ocr_engine]: Extracted Text: |Government of India|Satyam Chaudhary|1|DOB|31/08/2003|5|Male|1|6232 8153 1847|
+[2025-08-05 18:37:04,147: INFO: app]: Extracted text info: {'ID': '6232 8153 1847', 'Name': 'Satyam Chaudhary', 'Gender': 'Male', 'DOB': datetime.datetime(2003, 8, 31, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:37:04,148: INFO: app]: Hashing ID value.
+[2025-08-05 18:37:04,148: INFO: app]: Generated hash for ID: 704a9c17b3c11dc7d667a0bd6fe874230cd1087e4d183e8bba059ab9c225c7ab
+[2025-08-05 18:37:04,148: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:37:04,192: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:37:04,198: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:37:04,200: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:37:04,203: INFO: app]: Inserting new record into database.
+[2025-08-05 18:37:04,521: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:37:05,100: INFO: ocr_engine]: Extracted Text: |Government of India|Satyam Chaudhary|1|DOB|31/08/2003|5|Male|1|6232 8153 1847|
+[2025-08-05 18:37:05,101: INFO: app]: Extracted text info: {'ID': '6232 8153 1847', 'Name': 'Satyam Chaudhary', 'Gender': 'Male', 'DOB': datetime.datetime(2003, 8, 31, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:37:05,101: INFO: app]: Hashing ID value.
+[2025-08-05 18:37:05,101: INFO: app]: Generated hash for ID: 704a9c17b3c11dc7d667a0bd6fe874230cd1087e4d183e8bba059ab9c225c7ab
+[2025-08-05 18:37:05,101: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:37:05,102: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:37:05,102: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:37:05,102: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:37:05,102: INFO: app]: Inserting new record into database.
+[2025-08-05 18:37:05,103: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:37:05,103: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:37:05,396: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:37:05,399: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:37:05,400: INFO: app]: New user record inserted successfully: 704a9c17b3c11dc7d667a0bd6fe874230cd1087e4d183e8bba059ab9c225c7ab
+[2025-08-05 18:37:17,865: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:37:17,867: INFO: app]: Initializing database connection.
+[2025-08-05 18:37:17,871: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:37:17,872: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:37:17,873: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:37:17,873: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:37:22,604: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:37:22,604: INFO: app]: Initializing database connection.
+[2025-08-05 18:37:22,605: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:37:22,606: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:37:22,607: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:37:22,607: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:37:27,705: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:37:27,706: INFO: app]: Initializing database connection.
+[2025-08-05 18:37:27,708: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:37:27,708: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:37:27,710: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:37:27,710: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:37:27,711: ERROR: preprocess]: read_image called with None image_file.
+[2025-08-05 18:37:27,711: INFO: app]: Attempting to load face image.
+[2025-08-05 18:37:27,711: ERROR: app]: No face image uploaded.
+[2025-08-05 18:37:33,701: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:37:33,701: INFO: app]: Initializing database connection.
+[2025-08-05 18:37:33,704: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:37:33,704: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:37:33,705: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:37:33,706: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:37:33,708: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:37:33,708: INFO: app]: Attempting to load face image.
+[2025-08-05 18:37:33,708: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:37:33,709: ERROR: preprocess]: Failed to read image from: UploadedFile(file_id='3eecaa3a-ba0b-4012-a8af-5d761e48dffc', name='Aadhar Document.pdf', type='application/pdf', size=65936, _file_urls=file_id: "3eecaa3a-ba0b-4012-a8af-5d761e48dffc"
+upload_url: "/_stcore/upload_file/c00625e1-33bb-43da-a781-584328faad28/3eecaa3a-ba0b-4012-a8af-5d761e48dffc"
+delete_url: "/_stcore/upload_file/c00625e1-33bb-43da-a781-584328faad28/3eecaa3a-ba0b-4012-a8af-5d761e48dffc"
+)
+[2025-08-05 18:37:33,710: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:37:33,710: ERROR: preprocess]: extract_id_card called with None image.
+[2025-08-05 18:37:33,710: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:37:33,710: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:37:33,710: INFO: face_verification]: Extracting face...
+[2025-08-05 18:37:44,841: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:37:44,841: INFO: app]: Initializing database connection.
+[2025-08-05 18:37:44,843: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:37:44,843: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:37:44,843: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:37:44,844: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:37:49,326: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:37:49,327: INFO: app]: Initializing database connection.
+[2025-08-05 18:37:49,338: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:37:49,338: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:37:49,340: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:37:49,341: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:38:02,727: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:38:02,728: INFO: app]: Initializing database connection.
+[2025-08-05 18:38:02,734: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:38:02,735: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:38:02,736: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:38:02,736: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:38:02,737: ERROR: preprocess]: read_image called with None image_file.
+[2025-08-05 18:38:02,737: INFO: app]: Attempting to load face image.
+[2025-08-05 18:38:02,737: ERROR: app]: No face image uploaded.
+[2025-08-05 18:38:08,386: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:38:08,387: INFO: app]: Initializing database connection.
+[2025-08-05 18:38:08,395: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:38:08,396: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:38:08,396: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:38:08,396: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:38:08,398: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:38:08,398: INFO: app]: Attempting to load face image.
+[2025-08-05 18:38:08,398: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:38:08,405: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:38:08,405: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:38:08,412: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=1092, h=591
+[2025-08-05 18:38:08,413: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:38:08,413: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:38:08,416: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:38:08,416: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:38:08,416: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:38:08,416: INFO: face_verification]: Extracting face...
+[2025-08-05 18:38:08,484: INFO: face_verification]: Detected 4 faces.
+[2025-08-05 18:38:08,486: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:38:08,486: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:38:08,487: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:38:08,487: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:38:08,487: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:38:08,487: INFO: app]: Starting face verification.
+[2025-08-05 18:38:08,487: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:38:08,487: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:38:08,487: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:38:09,007: INFO: app]: Face verification status: failed.
+[2025-08-05 18:38:09,008: ERROR: app]: Face verification failed.
+[2025-08-05 18:38:21,778: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:38:21,782: INFO: app]: Initializing database connection.
+[2025-08-05 18:38:21,786: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:38:21,787: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:38:21,788: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:38:21,788: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:38:21,798: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:38:21,798: INFO: app]: Attempting to load face image.
+[2025-08-05 18:38:21,798: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:38:21,805: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:38:21,805: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:38:21,808: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=1092, h=591
+[2025-08-05 18:38:21,808: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:38:21,809: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:38:21,811: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:38:21,811: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:38:21,811: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:38:21,811: INFO: face_verification]: Extracting face...
+[2025-08-05 18:38:21,882: INFO: face_verification]: Detected 4 faces.
+[2025-08-05 18:38:21,883: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:38:21,883: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:38:21,884: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:38:21,887: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:38:21,887: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:38:21,887: INFO: app]: Starting face verification.
+[2025-08-05 18:38:21,887: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:38:21,887: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:38:21,887: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:38:22,459: INFO: app]: Face verification status: successful.
+[2025-08-05 18:38:22,459: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:38:22,459: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:38:25,237: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:38:26,022: INFO: ocr_engine]: Extracted Text: |Government of India|Satyam Chaudhary|1|DOB|31/08/2003|5|Male|1|6232 8153 1847|
+[2025-08-05 18:38:26,023: INFO: app]: Extracted text info: {'ID': '6232 8153 1847', 'Name': 'Satyam Chaudhary', 'Gender': 'Male', 'DOB': datetime.datetime(2003, 8, 31, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:38:26,023: INFO: app]: Hashing ID value.
+[2025-08-05 18:38:26,023: INFO: app]: Generated hash for ID: 704a9c17b3c11dc7d667a0bd6fe874230cd1087e4d183e8bba059ab9c225c7ab
+[2025-08-05 18:38:26,023: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:38:26,094: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:38:26,104: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:38:26,104: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:38:26,104: INFO: app]: Inserting new record into database.
+[2025-08-05 18:38:26,107: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:38:26,107: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:38:26,483: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:38:26,486: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:38:26,487: INFO: app]: New user record inserted successfully: 704a9c17b3c11dc7d667a0bd6fe874230cd1087e4d183e8bba059ab9c225c7ab
+[2025-08-05 18:39:44,158: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:39:44,168: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:39:44,361: INFO: sql_connection]: Connection established with database
+[2025-08-05 18:39:44,361: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:39:44,361: INFO: app]: Initializing database connection.
+[2025-08-05 18:39:44,362: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:39:44,363: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:39:44,363: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:39:44,364: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:39:48,285: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:39:48,286: INFO: app]: Initializing database connection.
+[2025-08-05 18:39:48,288: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:39:48,289: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:39:48,293: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:39:48,294: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:39:55,274: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:39:55,276: INFO: app]: Initializing database connection.
+[2025-08-05 18:39:55,278: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:39:55,279: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:39:55,280: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:39:55,280: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:39:55,280: ERROR: preprocess]: read_image called with None image_file.
+[2025-08-05 18:39:55,281: INFO: app]: Attempting to load face image.
+[2025-08-05 18:39:55,281: ERROR: app]: No face image uploaded.
+[2025-08-05 18:39:59,367: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:39:59,369: INFO: app]: Initializing database connection.
+[2025-08-05 18:39:59,371: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:39:59,371: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:39:59,372: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:39:59,372: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:39:59,392: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:39:59,392: INFO: app]: Attempting to load face image.
+[2025-08-05 18:39:59,393: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:39:59,415: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:39:59,415: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:39:59,430: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=1600, h=995
+[2025-08-05 18:39:59,431: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:39:59,432: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:39:59,442: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:39:59,442: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:39:59,442: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:39:59,442: INFO: face_verification]: Extracting face...
+[2025-08-05 18:39:59,571: INFO: face_verification]: Detected 1 faces.
+[2025-08-05 18:39:59,574: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:39:59,575: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:39:59,576: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:39:59,579: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:39:59,579: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:39:59,579: INFO: app]: Starting face verification.
+[2025-08-05 18:39:59,579: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:39:59,579: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:39:59,579: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:40:00,406: INFO: app]: Face verification status: successful.
+[2025-08-05 18:40:00,407: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:40:00,407: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:40:03,125: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:40:05,140: INFO: ocr_engine]: Extracted Text: |fant|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|CTGPC7S7IR|7|Name|SATYAM CHAUDHARY|Father's Name|PRASHANT PUNJ|25072022|PAN Appllcation Digitally Signed; Card Net|Date of Birth|Valid unless Physlcally Signed:|31/08/2003|
+[2025-08-05 18:40:05,144: INFO: app]: Extracted text info: {'ID': 'CTGPC7S7IR', 'Name': 'SATYAM CHAUDHARY', "Father's Name": 'PRASHANT PUNJ', 'DOB': datetime.datetime(2003, 8, 31, 0, 0), 'ID Type': 'PAN'}
+[2025-08-05 18:40:05,144: INFO: app]: Hashing ID value.
+[2025-08-05 18:40:05,145: INFO: app]: Generated hash for ID: f5dea54f7d87baf0d9209380504a89762cb5ea2d2b0123354d1ca95a8cfd13cf
+[2025-08-05 18:40:05,145: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:40:05,909: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:40:05,946: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:40:05,947: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:40:05,947: INFO: app]: Inserting new record into database.
+[2025-08-05 18:40:05,950: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:40:05,950: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:40:06,486: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:40:06,505: ERROR: sql_connection]: Error inserting records into users table: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:40:06,505: INFO: app]: New user record inserted successfully: f5dea54f7d87baf0d9209380504a89762cb5ea2d2b0123354d1ca95a8cfd13cf
+[2025-08-05 18:42:37,588: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:42:37,601: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:42:38,027: INFO: sql_connection]: Connection established with database
+[2025-08-05 18:42:38,028: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:42:38,028: INFO: app]: Initializing database connection.
+[2025-08-05 18:42:38,032: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:42:38,033: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:42:38,054: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:42:38,055: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:42:45,004: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:42:45,005: INFO: app]: Initializing database connection.
+[2025-08-05 18:42:45,013: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:42:45,013: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:42:45,015: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:42:45,016: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:42:49,061: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:42:49,062: INFO: app]: Initializing database connection.
+[2025-08-05 18:42:49,067: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:42:49,067: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:42:49,068: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:42:49,068: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:42:49,089: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:42:49,090: INFO: app]: Attempting to load face image.
+[2025-08-05 18:42:49,090: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:42:49,101: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:42:49,101: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:42:49,118: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=1600, h=995
+[2025-08-05 18:42:49,119: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:42:49,119: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:42:49,128: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:42:49,128: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:42:49,128: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:42:49,128: INFO: face_verification]: Extracting face...
+[2025-08-05 18:42:49,269: INFO: face_verification]: Detected 1 faces.
+[2025-08-05 18:42:49,273: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:42:49,274: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:42:49,274: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:42:49,277: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:42:49,277: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:42:49,278: INFO: app]: Starting face verification.
+[2025-08-05 18:42:49,278: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:42:49,278: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:42:49,278: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:42:51,599: INFO: app]: Face verification status: successful.
+[2025-08-05 18:42:51,599: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:42:51,599: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:42:55,199: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:43:00,673: INFO: ocr_engine]: Extracted Text: |fant|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|CTGPC7S7IR|7|Name|SATYAM CHAUDHARY|Father's Name|PRASHANT PUNJ|25072022|PAN Appllcation Digitally Signed; Card Net|Date of Birth|Valid unless Physlcally Signed:|31/08/2003|
+[2025-08-05 18:43:00,688: INFO: app]: Extracted text info: {'ID': 'CTGPC7S7IR', 'Name': 'SATYAM CHAUDHARY', "Father's Name": 'PRASHANT PUNJ', 'DOB': datetime.datetime(2003, 8, 31, 0, 0), 'ID Type': 'PAN'}
+[2025-08-05 18:43:00,688: INFO: app]: Hashing ID value.
+[2025-08-05 18:43:00,693: INFO: app]: Generated hash for ID: f5dea54f7d87baf0d9209380504a89762cb5ea2d2b0123354d1ca95a8cfd13cf
+[2025-08-05 18:43:00,693: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:43:01,240: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:43:01,288: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:43:01,289: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:43:01,289: INFO: app]: Inserting new record into database.
+[2025-08-05 18:43:01,289: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:01,289: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:02,091: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:43:02,102: ERROR: sql_connection]: Error inserting records into users table: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:43:02,118: INFO: app]: New user record inserted successfully: f5dea54f7d87baf0d9209380504a89762cb5ea2d2b0123354d1ca95a8cfd13cf
+[2025-08-05 18:43:26,367: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:43:26,368: INFO: app]: Initializing database connection.
+[2025-08-05 18:43:26,372: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:43:26,372: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:43:26,373: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:43:26,373: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:43:26,383: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:43:26,383: INFO: app]: Attempting to load face image.
+[2025-08-05 18:43:26,383: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:43:26,394: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:43:26,395: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:43:26,416: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=1600, h=995
+[2025-08-05 18:43:26,417: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:26,417: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:26,425: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:26,425: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:43:26,425: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:43:26,425: INFO: face_verification]: Extracting face...
+[2025-08-05 18:43:26,579: INFO: face_verification]: Detected 1 faces.
+[2025-08-05 18:43:26,580: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:43:26,582: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:26,583: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:26,583: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:26,583: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:26,583: INFO: app]: Starting face verification.
+[2025-08-05 18:43:26,583: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:43:26,583: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:26,583: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:43:32,323: INFO: app]: Face verification status: failed.
+[2025-08-05 18:43:32,324: ERROR: app]: Face verification failed.
+[2025-08-05 18:43:40,425: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:43:40,426: INFO: app]: Initializing database connection.
+[2025-08-05 18:43:40,431: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:43:40,432: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:43:40,433: INFO: app]: ID card type selected: PAN
+[2025-08-05 18:43:40,434: INFO: app]: Header set for PAN Card registration.
+[2025-08-05 18:43:40,437: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:43:40,437: INFO: app]: Attempting to load face image.
+[2025-08-05 18:43:40,437: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:43:40,462: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:43:40,464: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:43:40,482: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=1600, h=995
+[2025-08-05 18:43:40,482: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:40,483: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:40,493: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:40,493: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:43:40,493: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:43:40,493: INFO: face_verification]: Extracting face...
+[2025-08-05 18:43:40,615: INFO: face_verification]: Detected 1 faces.
+[2025-08-05 18:43:40,617: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:43:40,618: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:40,619: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:40,619: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:40,619: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:40,619: INFO: app]: Starting face verification.
+[2025-08-05 18:43:40,619: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:43:40,619: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:40,619: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:43:41,092: INFO: app]: Face verification status: failed.
+[2025-08-05 18:43:41,092: ERROR: app]: Face verification failed.
+[2025-08-05 18:43:41,700: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:43:41,700: INFO: app]: Initializing database connection.
+[2025-08-05 18:43:41,702: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:43:41,702: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:43:41,704: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:43:41,704: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:43:41,706: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:43:41,706: INFO: app]: Attempting to load face image.
+[2025-08-05 18:43:41,707: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:43:41,727: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:43:41,728: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:43:41,736: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=1600, h=995
+[2025-08-05 18:43:41,736: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:41,736: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:41,746: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:41,747: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:43:41,747: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:43:41,747: INFO: face_verification]: Extracting face...
+[2025-08-05 18:43:41,865: INFO: face_verification]: Detected 1 faces.
+[2025-08-05 18:43:41,866: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:43:41,867: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:41,867: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:41,867: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:41,867: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:41,867: INFO: app]: Starting face verification.
+[2025-08-05 18:43:41,867: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:43:41,867: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:41,867: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:43:42,189: INFO: app]: Face verification status: failed.
+[2025-08-05 18:43:42,189: ERROR: app]: Face verification failed.
+[2025-08-05 18:43:45,666: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:43:45,667: INFO: app]: Initializing database connection.
+[2025-08-05 18:43:45,668: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:43:45,669: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:43:45,669: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:43:45,670: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:43:45,670: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:43:45,670: INFO: app]: Attempting to load face image.
+[2025-08-05 18:43:45,670: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:43:45,673: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:43:45,673: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:43:45,675: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:43:45,675: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:45,676: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:45,681: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:45,682: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:43:45,682: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:43:45,682: INFO: face_verification]: Extracting face...
+[2025-08-05 18:43:45,777: INFO: face_verification]: Detected 2 faces.
+[2025-08-05 18:43:45,779: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:43:45,779: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:45,780: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:45,791: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:45,791: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:45,791: INFO: app]: Starting face verification.
+[2025-08-05 18:43:45,791: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:43:45,791: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:45,792: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:43:46,221: INFO: app]: Face verification status: successful.
+[2025-08-05 18:43:46,221: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:43:46,221: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:43:49,761: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:43:51,397: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:43:51,400: INFO: app]: Extracted text info: {'ID': 'XXXX XXXX XXXXGovernment of IndiaMeera Devi', 'Name': 'Meera Devi', 'Gender': 'FEMALE', 'DOB': datetime.datetime(1989, 9, 5, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:43:51,400: INFO: app]: Hashing ID value.
+[2025-08-05 18:43:51,409: INFO: app]: Generated hash for ID: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:43:51,409: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:43:51,532: INFO: app]: Starting Streamlit application.
+[2025-08-05 18:43:51,532: INFO: app]: Initializing database connection.
+[2025-08-05 18:43:51,533: INFO: app]: Page layout set to wider configuration.
+[2025-08-05 18:43:51,533: INFO: app]: Custom theme applied to Streamlit app.
+[2025-08-05 18:43:51,534: INFO: app]: ID card type selected: AADHAR
+[2025-08-05 18:43:51,534: INFO: app]: Header set for Aadhar Card registration.
+[2025-08-05 18:43:51,535: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:43:51,535: INFO: app]: Attempting to load face image.
+[2025-08-05 18:43:51,535: INFO: app]: Face image loaded successfully.
+[2025-08-05 18:43:51,537: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:43:51,537: INFO: app]: ID card image loaded successfully.
+[2025-08-05 18:43:51,538: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:43:51,538: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:51,538: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:51,539: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:43:51,539: INFO: app]: ID card ROI extracted successfully.
+[2025-08-05 18:43:51,539: INFO: app]: Detecting face from ID card ROI.
+[2025-08-05 18:43:51,539: INFO: face_verification]: Extracting face...
+[2025-08-05 18:43:51,580: INFO: face_verification]: Detected 2 faces.
+[2025-08-05 18:43:51,580: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:43:51,581: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:51,581: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:51,581: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:51,581: INFO: app]: User face image saved at: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:51,581: INFO: app]: Starting face verification.
+[2025-08-05 18:43:51,581: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:43:51,582: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:51,582: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:43:51,901: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:43:51,907: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:43:51,907: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:43:51,907: INFO: app]: Inserting new record into database.
+[2025-08-05 18:43:51,907: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:51,907: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:52,102: INFO: app]: Face verification status: successful.
+[2025-08-05 18:43:52,102: INFO: app]: Face verification passed. Extracting text from ID card.
+[2025-08-05 18:43:52,102: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:43:52,201: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:43:52,228: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:43:54,959: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:43:55,326: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:43:55,327: INFO: app]: Extracted text info: {'ID': 'XXXX XXXX XXXXGovernment of IndiaMeera Devi', 'Name': 'Meera Devi', 'Gender': 'FEMALE', 'DOB': datetime.datetime(1989, 9, 5, 0, 0), 'ID Type': 'AADHAR'}
+[2025-08-05 18:43:55,327: INFO: app]: Hashing ID value.
+[2025-08-05 18:43:55,327: INFO: app]: Generated hash for ID: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:43:55,327: INFO: app]: Checking for duplicate records in database.
+[2025-08-05 18:43:55,336: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:43:55,338: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:43:55,338: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:43:55,339: INFO: app]: Inserting new record into database.
+[2025-08-05 18:43:55,339: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:55,339: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:43:55,483: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:43:55,484: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:43:55,485: INFO: app]: New user record inserted successfully: 9f2bd5e1726c63ab888c31d91a797a12c44bb9d164af3723b2bb90ff78e8b234
+[2025-08-05 18:46:01,687: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:46:01,697: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:46:01,821: INFO: sql_connection]: Connection established with database
+[2025-08-05 18:46:15,275: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:46:15,280: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:46:15,290: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:46:15,291: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:46:15,292: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:46:15,295: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:46:15,295: INFO: face_verification]: Extracting face...
+[2025-08-05 18:46:15,375: INFO: face_verification]: Detected 2 faces.
+[2025-08-05 18:46:15,378: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:46:15,379: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:46:15,388: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:46:15,389: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:46:15,389: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:46:15,389: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:46:15,389: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/E-KYC-/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:46:16,735: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:46:19,742: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:46:20,147: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:46:20,255: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:46:20,284: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:46:20,284: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:46:20,285: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:46:20,285: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:46:20,625: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:46:20,630: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:50:57,060: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:51:48,241: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:51:49,088: INFO: sql_connection]: Connection established with database
+[2025-08-05 18:52:15,818: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:52:15,832: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:52:15,852: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=1600, h=995
+[2025-08-05 18:52:15,853: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:15,854: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:15,863: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:15,863: INFO: face_verification]: Extracting face...
+[2025-08-05 18:52:16,111: INFO: face_verification]: Detected 1 faces.
+[2025-08-05 18:52:16,114: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:52:16,115: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:16,116: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:16,120: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:16,120: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:52:16,120: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:16,120: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:52:18,479: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:52:21,633: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:52:28,082: INFO: ocr_engine]: Extracted Text: |fant|INCOME TAX DEPARTMENT|GOVT OF INDIA|Permanent Account Number Card|CTGPC7S7IR|7|Name|SATYAM CHAUDHARY|Father's Name|PRASHANT PUNJ|25072022|PAN Appllcation Digitally Signed; Card Net|Date of Birth|Valid unless Physlcally Signed:|31/08/2003|
+[2025-08-05 18:52:29,084: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:52:29,144: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:52:29,145: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:52:29,145: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:29,146: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:31,103: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:52:31,119: ERROR: sql_connection]: Error inserting records into users table: 1146 (42S02): Table 'e_kyc.users' doesn't exist
+[2025-08-05 18:52:39,698: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:52:39,711: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:52:39,728: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=1600, h=995
+[2025-08-05 18:52:39,729: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:39,730: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:39,739: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:39,739: INFO: face_verification]: Extracting face...
+[2025-08-05 18:52:39,865: INFO: face_verification]: Detected 1 faces.
+[2025-08-05 18:52:39,866: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:52:39,867: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:39,867: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:39,868: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:39,868: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:52:39,868: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:39,868: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:52:44,050: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:52:44,076: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:52:44,085: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=1600, h=995
+[2025-08-05 18:52:44,085: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:44,087: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:44,097: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:44,097: INFO: face_verification]: Extracting face...
+[2025-08-05 18:52:44,226: INFO: face_verification]: Detected 1 faces.
+[2025-08-05 18:52:44,227: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:52:44,228: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:44,228: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:44,228: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:44,228: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:52:44,228: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:44,228: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:52:47,402: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:52:47,412: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:52:47,413: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:52:47,415: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:47,587: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:47,604: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:47,604: INFO: face_verification]: Extracting face...
+[2025-08-05 18:52:47,636: INFO: face_verification]: Detected 2 faces.
+[2025-08-05 18:52:47,636: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:52:47,637: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:47,637: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:47,637: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:47,637: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:52:47,637: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:47,637: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:52:48,176: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:52:50,206: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:52:50,210: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:52:50,211: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:52:50,212: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:50,212: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:50,213: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:52:50,213: INFO: face_verification]: Extracting face...
+[2025-08-05 18:52:50,252: INFO: face_verification]: Detected 2 faces.
+[2025-08-05 18:52:50,254: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:52:50,254: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:50,254: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:50,255: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:50,255: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:52:50,255: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:52:50,255: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:52:50,722: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:52:51,752: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:52:54,198: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:52:54,984: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:52:56,336: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:53:16,551: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:53:23,802: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-08-05 18:53:23,895: INFO: sql_connection]: Connection established with database
+[2025-08-05 18:53:35,185: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:53:35,190: INFO: preprocess]: Image read successfully.
+[2025-08-05 18:53:35,208: INFO: preprocess]: Largest contour for ID card found at: x=0, y=0, w=609, h=390
+[2025-08-05 18:53:35,208: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:53:35,209: INFO: preprocess]: Old contour file removed: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:53:35,213: INFO: preprocess]: ID card contour saved at: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/contour_id.jpg
+[2025-08-05 18:53:35,213: INFO: face_verification]: Extracting face...
+[2025-08-05 18:53:35,356: INFO: face_verification]: Detected 2 faces.
+[2025-08-05 18:53:35,356: INFO: face_verification]: Extracted face saved at: /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:53:35,357: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:53:35,357: INFO: preprocess]: Old file removed: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:53:35,357: INFO: preprocess]: Image saved successfully: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:53:35,357: INFO: face_verification]: Verifying the images...
+[2025-08-05 18:53:35,357: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:53:35,357: INFO: utils]: File exists at /Users/chaudharysatyam313/Desktop/Projects/e_kyc/data/02_intermediate_data/extracted_face.jpg
+[2025-08-05 18:53:37,179: INFO: ocr_engine]: Text Extraction Started...
+[2025-08-05 18:53:39,780: INFO: ocr_engine]: Inside Try-Catch...
+[2025-08-05 18:53:40,671: INFO: ocr_engine]: Extracted Text: |Government of India|Meera Devi|DOB|05/09/1989|FEMALE|XXXX XXXX XXXX|HT|
+[2025-08-05 18:53:40,739: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:53:40,749: ERROR: sql_connection]: Error fetching records: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
+[2025-08-05 18:53:40,749: INFO: sql_connection]: No duplicate records found.
+[2025-08-05 18:53:40,749: INFO: face_verification]: Retrieving face embeddings from image: data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:53:40,749: INFO: utils]: File exists at data/02_intermediate_data/face_image.jpg
+[2025-08-05 18:53:42,378: INFO: face_verification]: Face embeddings retrieved successfully
+[2025-08-05 18:53:42,386: ERROR: sql_connection]: Error inserting records into aadhar table: 1146 (42S02): Table 'e_kyc.aadhar' doesn't exist
