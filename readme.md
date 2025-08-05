@@ -1,5 +1,5 @@
-THIS IS NOT MY PROJECT I JUST DID A BIT OF CHANGES TO MAKE THE ORIGNAL PROJECT WORKING
-I DON"T OWN THIS PROJECT
+# THIS IS NOT MY PROJECT I JUST DID A BIT OF CHANGES TO MAKE THE ORIGNAL PROJECT WORKING
+# I DON"T OWN THIS PROJECT
 
 # E-KYC Project
 Welcome to the E-KYC project! This project leverages cutting-edge techniques in computer vision, natural language processing, convolutional neural networks (CNNs), and long short-term memory networks (LSTMs) to facilitate automatic Know Your Customer (KYC) processes. 
